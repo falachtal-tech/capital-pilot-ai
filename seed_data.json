@@ -1,0 +1,466 @@
+{
+  "watchlist": [
+    {
+      "ticker": "JEDI",
+      "name": "Defiance Drone and Modern Warfare ETF",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "Modern warfare and drone ETF, risk diversification in the defense sector."
+    },
+    {
+      "ticker": "UAV",
+      "name": "AdvisorShares Drone Technology ETF",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "Pure-play drone technology ETF including civilian applications."
+    },
+    {
+      "ticker": "AVAV",
+      "name": "AeroVironment",
+      "market": "US",
+      "category": "Defense/Drones",
+      "entry_target": null,
+      "thesis": "Leading tactical drone manufacturer (Switchblade), accelerated growth but expensive multiple, high risk."
+    },
+    {
+      "ticker": "KTOS",
+      "name": "Kratos Defense & Security Solutions",
+      "market": "US",
+      "category": "Defense/Drones",
+      "entry_target": null,
+      "thesis": "Development of jet drones (Valkyrie) accompanying fighter jets, a dream stock for the risk budget."
+    },
+    {
+      "ticker": "ONDS",
+      "name": "Ondas Holdings",
+      "market": "US",
+      "category": "Defense/Drones",
+      "entry_target": null,
+      "thesis": "Nervous system and communications for operating autonomous drone swarms remotely."
+    },
+    {
+      "ticker": "TXT",
+      "name": "Textron",
+      "market": "US",
+      "category": "Defense",
+      "entry_target": null,
+      "thesis": "Traditional defense giant with a strong drone arm, fair and stable pricing."
+    },
+    {
+      "ticker": "BA",
+      "name": "Boeing",
+      "market": "US",
+      "category": "Defense",
+      "entry_target": null,
+      "thesis": "Indirect exposure through strategic autonomous refueling and combat drones."
+    },
+    {
+      "ticker": "NOC",
+      "name": "Northrop Grumman",
+      "market": "US",
+      "category": "Defense",
+      "entry_target": null,
+      "thesis": "Giant player in strategic UAVs with a massive backlog and fair pricing."
+    },
+    {
+      "ticker": "FLNC",
+      "name": "Fluence Energy",
+      "market": "US",
+      "category": "Energy Storage",
+      "entry_target": null,
+      "thesis": "Hardware and software solutions for grid-scale energy storage (growth core)."
+    },
+    {
+      "ticker": "NRGV",
+      "name": "Energy Vault",
+      "market": "US",
+      "category": "Energy Storage",
+      "entry_target": null,
+      "thesis": "Innovative energy storage using gravity and lifting blocks (pure risk arm)."
+    },
+    {
+      "ticker": "STEM",
+      "name": "Stem Inc.",
+      "market": "US",
+      "category": "Energy Storage",
+      "entry_target": null,
+      "thesis": "AI software for managing smart energy grids."
+    },
+    {
+      "ticker": "GWH",
+      "name": "ESS Tech",
+      "market": "US",
+      "category": "Energy Storage",
+      "entry_target": null,
+      "thesis": "Safe and non-flammable industrial iron-flow batteries."
+    },
+    {
+      "ticker": "CSIQ",
+      "name": "Canadian Solar",
+      "market": "US",
+      "category": "Solar/Energy",
+      "entry_target": null,
+      "thesis": "Veteran and profitable solar panel manufacturer with a low multiple, defensive for the portfolio core."
+    },
+    {
+      "ticker": "CEG",
+      "name": "Constellation Energy",
+      "market": "US",
+      "category": "Nuclear Energy",
+      "entry_target": null,
+      "thesis": "Nuclear energy backing server farms, fair-high pricing (portfolio core)."
+    },
+    {
+      "ticker": "SMR",
+      "name": "NuScale Power",
+      "market": "US",
+      "category": "Nuclear Energy",
+      "entry_target": null,
+      "thesis": "Development of small modular nuclear reactors (risk arm)."
+    },
+    {
+      "ticker": "CCJ",
+      "name": "Cameco",
+      "market": "US",
+      "category": "Nuclear Energy",
+      "entry_target": null,
+      "thesis": "Global uranium mining, stock is slightly overpriced currently."
+    },
+    {
+      "ticker": "EOSE",
+      "name": "Eos Energy Enterprises",
+      "market": "US",
+      "category": "Energy Storage",
+      "entry_target": null,
+      "thesis": "Industrial zinc batteries as a safe alternative to lithium."
+    },
+    {
+      "ticker": "BE",
+      "name": "Bloom Energy",
+      "market": "US",
+      "category": "Grid Tech",
+      "entry_target": null,
+      "thesis": "Fuel cells and green electricity supply systems."
+    },
+    {
+      "ticker": "AMSC",
+      "name": "American Superconductor",
+      "market": "US",
+      "category": "Grid Tech",
+      "entry_target": null,
+      "thesis": "Optimization and control of industrial power grids."
+    },
+    {
+      "ticker": "WOLF",
+      "name": "Wolfspeed",
+      "market": "US",
+      "category": "Semiconductors/Grid",
+      "entry_target": null,
+      "thesis": "Advanced silicon carbide components for efficient power transmission."
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "market": "US",
+      "category": "Tech / Semiconductors",
+      "entry_target": null,
+      "thesis": "Chip and AI processor giant, too expensive right now but critical to monitor."
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies",
+      "market": "US",
+      "category": "Tech / Hardware",
+      "entry_target": null,
+      "thesis": "AI infrastructure and servers, trades at a fair P/E multiple and fits the portfolio core."
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "market": "US",
+      "category": "Tech / AI",
+      "entry_target": null,
+      "thesis": "Language model development and massive server farm investments, strong growth and fair-high pricing."
+    },
+    {
+      "ticker": "UEC",
+      "name": "Uranium Energy Corp",
+      "market": "US",
+      "category": "Nuclear Materials",
+      "entry_target": null,
+      "thesis": "American uranium mining company (risk arm)."
+    },
+    {
+      "ticker": "SOLS",
+      "name": "Navitas Semiconductor",
+      "market": "US",
+      "category": "Semiconductors",
+      "entry_target": null,
+      "thesis": "Efficient energy components and next-gen semiconductors."
+    },
+    {
+      "ticker": "LEU",
+      "name": "Centrus Energy",
+      "market": "US",
+      "category": "Nuclear Energy",
+      "entry_target": null,
+      "thesis": "Uranium enrichment company with stable profitability and cheap value multiple."
+    },
+    {
+      "ticker": "AM",
+      "name": "Antero Midstream",
+      "market": "US",
+      "category": "Energy Infrastructure",
+      "entry_target": null,
+      "thesis": "Midstream infrastructure, gas and water pipelines. A strong defensive weight paying dividends at a cheap multiple."
+    },
+    {
+      "ticker": "MP",
+      "name": "MP Materials",
+      "market": "US",
+      "category": "Basic Materials",
+      "entry_target": null,
+      "thesis": "Rare earth metals production in the US, strategic for decoupling from China (risk/growth)."
+    },
+    {
+      "ticker": "TSEM",
+      "name": "Tower Semiconductor",
+      "market": "US",
+      "category": "Semiconductors",
+      "entry_target": null,
+      "thesis": "Analog chip manufacturing, Israeli company showing stable profitability and cheap pricing."
+    },
+    {
+      "ticker": "FN",
+      "name": "Fabrinet",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Manufacturing and assembly of advanced optical components for AI, healthy profitability at a fair price."
+    },
+    {
+      "ticker": "CIEN",
+      "name": "Ciena Corp",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Equipment and solutions for optical networks, comfortable and cheap P/E multiple."
+    },
+    {
+      "ticker": "IPGP",
+      "name": "IPG Photonics",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Global leader in fiber lasers, fair price for the portfolio core."
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent Corp",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Materials and lasers for servers, trades at an aggressive and expensive multiple."
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum Holdings",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Manufacturing of optical modules, currently very expensive."
+    },
+    {
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "High-speed optical fiber components, volatile dream stock (risk arm)."
+    },
+    {
+      "ticker": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "market": "US",
+      "category": "Tech / Quantum",
+      "entry_target": null,
+      "thesis": "Quantum computing based on optics and photonics (pure risk)."
+    },
+    {
+      "ticker": "LASR",
+      "name": "nLIGHT",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Semiconductor lasers for industrial and defense applications."
+    },
+    {
+      "ticker": "VIAV",
+      "name": "Viavi Solutions",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Testing and monitoring for communication and optical networks."
+    },
+    {
+      "ticker": "AXTI",
+      "name": "AXT Inc.",
+      "market": "US",
+      "category": "Photonics",
+      "entry_target": null,
+      "thesis": "Development of specialty raw materials and infrastructure for photonics chips."
+    },
+    {
+      "ticker": "NXSN.TA",
+      "name": "Next Vision",
+      "market": "TASE",
+      "category": "Defense/Drones",
+      "entry_target": null,
+      "thesis": "Micro-stabilized cameras for drones and military vehicles. Cash machine, fair pricing, for the Israeli account (ILS)."
+    },
+    {
+      "ticker": "QTUM",
+      "name": "Defiance Quantum ETF",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "Quantum computing and machine learning ETF (allocation for next month)."
+    },
+    {
+      "ticker": "ETN",
+      "name": "Eaton Corporation",
+      "market": "US",
+      "category": "Grid/Power",
+      "entry_target": null,
+      "thesis": "Giant in power management and UPS backup for data centers. Combines value, dividends, and critical infrastructure."
+    },
+    {
+      "ticker": "NVT",
+      "name": "nVent Electric",
+      "market": "US",
+      "category": "Grid/Power",
+      "entry_target": null,
+      "thesis": "Liquid cooling systems and smart enclosures for AI servers."
+    },
+    {
+      "ticker": "APH",
+      "name": "Amphenol Corp",
+      "market": "US",
+      "category": "Tech Infrastructure",
+      "entry_target": null,
+      "thesis": "Physical connectors and optical fibers, connecting servers for record speeds."
+    },
+    {
+      "ticker": "GRID",
+      "name": "First Trust Smart Grid",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "ETF tracking the power transmission layer and smart grids (includes ETN and NVT)."
+    },
+    {
+      "ticker": "PAVE",
+      "name": "Global X U.S. Infrastructure",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "US physical infrastructure ETF (construction, steel, cooling, grids)."
+    },
+    {
+      "ticker": "BATT",
+      "name": "Amplify Battery Tech",
+      "market": "US",
+      "category": "ETFs",
+      "entry_target": null,
+      "thesis": "Full broad exposure to energy storage, from lithium mining core to batteries and vehicles."
+    },
+    {
+      "ticker": "RIOT",
+      "name": "Riot Platforms",
+      "market": "US",
+      "category": "Crypto/Data Center",
+      "entry_target": null,
+      "thesis": "Bitcoin mining, power credits trading (Texas), and data center space leasing for HPC (risk arm)."
+    },
+    {
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "market": "US",
+      "category": "Space / Tech",
+      "entry_target": null,
+      "thesis": "Direct-to-cell satellite communication from space (risk arm)."
+    }
+  ],
+  "portfolio_state": {
+    "annual_deposit_goal_ils": 0,
+    "monthly_target_ils": 0,
+    "target_annual_return_pct": 0,
+    "accounts": {
+      "colmex_pro_usd": {
+        "cash_balance": 2.64,
+        "holdings": [
+          {
+            "ticker": "SCHD",
+            "quantity": 25
+          },
+          {
+            "ticker": "SRVR",
+            "quantity": 22
+          },
+          {
+            "ticker": "VLO",
+            "quantity": 2
+          },
+          {
+            "ticker": "QCOM",
+            "quantity": 1
+          },
+          {
+            "ticker": "RCAT",
+            "quantity": 13
+          },
+          {
+            "ticker": "POET",
+            "quantity": 12
+          }
+        ]
+      },
+      "phoenix_ils": {
+        "cash_balance": 0,
+        "holdings": []
+      }
+    }
+  },
+  "long_term_savings": {
+    "pension_fund": {
+      "provider": "",
+      "track": "",
+      "current_balance_ils": 0,
+      "monthly_deposit_total_ils": 0,
+      "fee_deposit_pct": 0.0,
+      "fee_balance_pct": 0.0
+    },
+    "education_fund": {
+      "provider": "",
+      "track": "",
+      "current_balance_ils": 0,
+      "monthly_deposit_ils": 0,
+      "fee_balance_pct": 0.0
+    },
+    "provident_fund": {
+      "provider": "",
+      "track": "",
+      "current_balance_ils": 0,
+      "monthly_deposit_ils": 0,
+      "fee_balance_pct": 0.0
+    }
+  },
+  "investment_rules": {
+    "max_single_stock_allocation_pct": 15,
+    "min_risk_reward_ratio": 2.0,
+    "stop_loss_multiplier_atr": 1.5
+  },
+  "action_triggers": []
+}
