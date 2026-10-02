@@ -1,0 +1,1 @@
+"""CapitalPilot AI core package."""

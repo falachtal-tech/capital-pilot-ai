@@ -1,0 +1,207 @@
+ticker,name,market,category,thesis
+SCHD,Schwab U.S. Dividend Equity ETF,US,ETFs / Dividend,"Core dividend foundation providing cash flow, dividend growth, and downside protection."
+SRVR,Pacer Data & Infrastructure Real Estate ETF,US,ETFs / Infrastructure,Exposure to data center REITs and telecommunication towers critical for AI processing.
+VLO,Valero Energy Corporation,US,Energy / Refining,Downstream refining giant providing an inflation hedge and robust free cash flow.
+QCOM,Qualcomm Incorporated,US,Semiconductors / Edge AI,"Dominance in mobile snapdragon chips, edge-device generative AI, and automotive telematics."
+RCAT,"Red Cat Holdings, Inc.",US,Defense & Aerospace / Drones,Tactical short-range reconnaissance drones (Teal) with AI edge integration for defense forces.
+POET,POET Technologies Inc.,US,Photonics / Optical Interconnects,"Hybrid optical interposer enabling ultra-fast, energy-efficient photonics chips for AI data centers."
+NVDA,NVIDIA Corporation,US,Semiconductors / AI Accelerators,"Global benchmark for accelerated computing GPUs, CUDA software moat, and full-stack AI clusters."
+MSFT,Microsoft Corporation,US,Cloud & Software / Cloud & Enterprise Software,Hyperscale cloud leader (Azure) commercializing enterprise generative AI and OpenAI partnership.
+GOOGL,Alphabet Inc.,US,Cloud & Software / Cloud & AI Research,"Full-stack AI supremacy with custom TPU processors, DeepMind research, and Gemini ecosystem."
+AMZN,"Amazon.com, Inc.",US,Cloud & Software / Cloud Infrastructure,"AWS cloud leader integrating custom AI chips (Trainium, Inferentia) and automated warehouse logistics."
+META,"Meta Platforms, Inc.",US,Data Centers & AI Hardware / AI Infrastructure,Leading open-source AI innovation (Llama) backed by hyperscale data center infrastructure.
+AAPL,Apple Inc.,US,Cloud & Software / Edge AI,Massive installed hardware base driving on-device consumer AI via Apple Intelligence and custom silicon.
+ORCL,Oracle Corporation,US,Cloud & Software / Database Infrastructure,OCI RDMA supercomputing clusters for AI training and multi-cloud database partnerships.
+NOW,"ServiceNow, Inc.",US,Cloud & Software / Enterprise AI,Core enterprise workflow automation platform delivering generative AI agentic automation.
+PLTR,Palantir Technologies Inc.,US,Cloud & Software / Defense,"AIP platform deploying operational AI across government, military defense, and commercial enterprises."
+CRM,"Salesforce, Inc.",US,Cloud & Software / Enterprise Software,Autonomous AI agents for CRM and enterprise operations through the Agentforce ecosystem.
+SNOW,Snowflake Inc.,US,Cloud & Software / Cloud Data Infrastructure,Enterprise data cloud powering foundational AI model fine-tuning and secure data governance.
+ADBE,Adobe Inc.,US,Cloud & Software / AI,Generative media creation leader embedding Firefly models directly into enterprise creative workflows.
+IBM,International Business Machines Corp.,US,Quantum Computing / Enterprise Tech & Quantum,Enterprise AI orchestration via watsonx and commercial quantum hardware roadmap.
+AMD,"Advanced Micro Devices, Inc.",US,Semiconductors / AI,Instinct GPU accelerators and EPYC datacenter processors challenging AI monopolies.
+TSM,Taiwan Semiconductor Manufacturing Co.,US,Semiconductors / Foundry,Irreplaceable global foundry monopolizing leading-edge sub-3nm node production.
+ASML,ASML Holding N.V.,US,Semiconductors / Semiconductor Equipment,Sole-source monopoly on extreme ultraviolet (EUV) photolithography scanners.
+AVGO,Broadcom Inc.,US,Semiconductors / Networking,Market leader in custom AI ASICs (XPU) and high-throughput Ethernet switching silicon (Tomahawk).
+ARM,Arm Holdings plc,US,Semiconductors / IP,"Ultra-low-power CPU architecture foundational to mobile, edge computing, and AI data center chips."
+MU,"Micron Technology, Inc.",US,Semiconductors / Memory,High-bandwidth memory (HBM3e/HBM4) manufacturer critical for AI accelerator bandwidth.
+INTC,Intel Corporation,US,Semiconductors / Foundry,Pioneering 18A process node to restore domestic US semiconductor manufacturing leadership.
+AMAT,"Applied Materials, Inc.",US,Semiconductors / Semiconductor Equipment,Broadest materials engineering equipment portfolio enabling GAA transistor fabrication.
+LRCX,Lam Research Corporation,US,Semiconductors / Semiconductor Equipment,Market leader in precision plasma etching and deposition essential for 3D NAND and HBM memory.
+KLAC,KLA Corporation,US,Semiconductors / Semiconductor Equipment,Dominant optical yield inspection and process diagnostic systems for advanced fab yields.
+MRVL,"Marvell Technology, Inc.",US,Semiconductors / Networking,Custom cloud AI compute silicon and electro-optics interconnect DSPs.
+MPWR,"Monolithic Power Systems, Inc.",US,Semiconductors / Power Semiconductors,Industry-leading power management ICs delivering hundreds of amps to AI processors.
+ON,ON Semiconductor Corporation,US,Semiconductors / Power Semiconductors,Silicon carbide (SiC) and GaN power discrete solutions for automotive and power grid tech.
+NXPI,NXP Semiconductors N.V.,US,Semiconductors / Auto & IoT,Embedded processing leader for secure automotive microcontrollers and industrial automation.
+ADI,"Analog Devices, Inc.",US,Semiconductors / Analog,"Precision analog, mixed-signal, and sensor-interface chips bridging physical and digital worlds."
+TXN,Texas Instruments Incorporated,US,Semiconductors / Analog,Low-cost high-volume analog and embedded processors backed by internal 300mm fabs.
+MCHP,Microchip Technology Inc.,US,Semiconductors / Embedded,"Specialty microcontroller, mixed-signal, and FPGA solutions with broad industrial exposure."
+ALAB,"Astera Labs, Inc.",US,Semiconductors / AI Connectivity,"PCIe and CXL retimers, switches, and smart connectivity modules eliminating AI memory bottlenecks."
+DELL,Dell Technologies Inc.,US,Data Centers & AI Hardware / AI Servers,"Enterprise AI server manufacturing, liquid-cooled PowerEdge racks, and storage solutions."
+HPE,Hewlett Packard Enterprise Company,US,Data Centers & AI Hardware / Supercomputing,High-performance Cray supercomputers and hybrid cloud enterprise server infrastructure.
+SMCI,"Super Micro Computer, Inc.",US,Data Centers & AI Hardware / AI Racks,Modular server architecture and liquid-cooling plug-and-play rack-scale AI clusters.
+VRT,Vertiv Holdings Co,US,Data Centers & AI Hardware / Data Center Infrastructure,"Thermal management, precision liquid cooling, and power distribution systems for AI data centers."
+P,"Everpure, Inc. (formerly Pure Storage)",US,Data Centers & AI Hardware / Data Storage,All-flash enterprise storage arrays optimized for unstructured AI dataset training and inference.
+LITE,Lumentum Holdings Inc.,US,Photonics / Optical Transceivers,"High-speed optical transceivers, coherent optical components, and industrial laser diode solutions."
+COHR,Coherent Corp.,US,Photonics / Materials,"Engineered optical materials, 800G/1.6T datacom optical transceivers, and SiC substrates."
+AAOI,"Applied Optoelectronics, Inc.",US,Photonics / Datacom,"Fiber-optic networking products, lasers, and next-gen optical transceivers for data centers."
+FN,Fabrinet,US,Photonics / Manufacturing,"Precision optical packaging, advanced electro-mechanical manufacturing, and AI transceiver assembly."
+IPGP,IPG Photonics Corporation,US,Photonics / Fiber Lasers,"High-power fiber lasers for industrial material processing, micromachining, and medical devices."
+LASR,"nLIGHT, Inc.",US,Photonics / Semiconductor Lasers,"High-power semiconductor and fiber lasers for aerospace, directed energy, and defense systems."
+CIEN,Ciena Corporation,US,Photonics / Optical Networking,"WaveLogic coherent optical platforms, software-defined optical routing, and hyperscale interconnects."
+VIAV,Viavi Solutions Inc.,US,Photonics / Test & Measurement,"Network testing equipment for high-speed fiber-optic deployment, optical filters, and spectral analysis."
+TSEM,Tower Semiconductor Ltd.,US/TASE,Semiconductors / Foundry,Specialty analog foundry with leadership in Silicon Photonics (SiPh) and RF CMOS.
+AXTI,"AXT, Inc.",US,Photonics / Substrates,Compound semiconductor substrates including Indium Phosphide (InP) and GaAs for optical circuits.
+ALMU,"Aeluma, Inc.",US,Photonics / Emerging,Pioneering compound semiconductor-on-silicon integration for LIDAR and optical sensors.
+AIXXF,Aixtron SE,US / OTC,Semiconductors / Deposition,"MOCVD manufacturing equipment for compound semiconductors, optoelectronics, and micro-LEDs."
+LAZR,"Luminar Technologies, Inc.",US,Photonics / LiDAR,Long-range photonic LiDAR architecture for automotive autonomy and commercial vehicle safety.
+GLW,Corning Incorporated,US,Photonics / Specialty Glass,"Optical fiber innovations, high-density patch cables, and display glass for data centers."
+ANET,"Arista Networks, Inc.",US,Networking & Electronics / Cloud,Ethernet switching platforms and EOS software connecting hyperscale AI GPU clusters.
+CSCO,"Cisco Systems, Inc.",US,Networking & Electronics / Enterprise,"Enterprise networking, optical silicon systems, and AI-driven secure network telemetry."
+EXTR,"Extreme Networks, Inc.",US,Networking & Electronics / Cloud-Managed,Cloud-managed enterprise networking infrastructure and edge connectivity.
+KEYS,"Keysight Technologies, Inc.",US,Networking & Electronics / Test & Measurement,"Electronic design and validation solutions for RF, optical, and quantum systems."
+ETN,Eaton Corporation plc,US,Grid & Electrical / Power Management,"Electrical distribution gear, high-voltage transformers, switchgear, and uninterruptible power supply (UPS)."
+NVT,nVent Electric plc,US,Data Centers & AI Hardware / Grid,"Liquid cooling manifolds, rear-door heat exchangers, and electrical enclosure solutions for high-density AI."
+APH,Amphenol Corporation,US,Photonics / Interconnects & Optical,"High-speed electrical backplane connectors, optical transceivers, and extreme-density cable assemblies."
+PWR,"Quanta Services, Inc.",US,Grid & Electrical / Grid Infrastructure Services,"Comprehensive infrastructure solutions for electric power transmission, substations, and renewables."
+HUBB,Hubbell Incorporated,US,Grid & Electrical / Electrical Equipment,"Utility transmission connectors, insulators, transformers, and smart metering systems."
+EME,"EMCOR Group, Inc.",US,Industrials & HVAC / Industrial Engineering,Mechanical and electrical construction services specializing in data center electrical installations.
+FIX,"Comfort Systems USA, Inc.",US,Industrials & HVAC / HVAC & Mechanical,Mechanical and HVAC contractor building specialized modular cooling units for data centers.
+JCI,Johnson Controls International plc,US,Industrials & HVAC / Building Systems,"Industrial chillers, York cooling equipment, and smart facility automation for tech campuses."
+TT,Trane Technologies plc,US,Industrials & HVAC / Climate Innovation,High-efficiency commercial chillers and thermal management solutions for hyperscale campuses.
+CARR,Carrier Global Corporation,US,Industrials & HVAC / Industrial Cooling,Intelligent climate solutions and industrial liquid chillers engineered for data centers.
+MOD,Modine Manufacturing Company,US,Data Centers & AI Hardware / Thermal Management,Specialized air- and liquid-cooling hardware and chillers purpose-built for data center racks.
+POWL,"Powell Industries, Inc.",US,Grid & Electrical / Power Distribution,"Custom engineered switchgear, control rooms, and electrical distribution hardware."
+AMSC,American Superconductor Corporation,US,Grid & Electrical / Superconductors,High-temperature superconductor grid resilience systems and industrial voltage control.
+BE,Bloom Energy Corporation,US,Grid & Electrical / Fuel Cells,"Solid oxide fuel cell servers delivering on-site, behind-the-meter baseload electricity for AI campuses."
+WOLF,"Wolfspeed, Inc.",US,Semiconductors / Power,"Silicon carbide (SiC) wafer fabrication for high-efficiency power transmission, EV inverters, and grids."
+GEV,GE Vernova Inc.,US,Energy / Power Generation,"Gas turbines, wind power equipment, and electrification grid software for power generation."
+SPXC,"SPX Technologies, Inc.",US,Industrials & HVAC / HVAC,"Engineered cooling systems, heating equipment, and electrical detection and diagnostic tools."
+IESC,"IES Holdings, Inc.",US,Grid & Electrical / Electrical Contracting,Specialized electrical contracting for data center build-outs and commercial power setups.
+MYRG,MYR Group Inc.,US,Grid & Electrical / Grid Contracting,Electrical transmission and distribution construction serving regional utility networks.
+STRL,"Sterling Infrastructure, Inc.",US,Grid & Electrical / E-Infrastructure Construction,Civil and site infrastructure construction provider for hyperscale data centers.
+MTZ,"MasTec, Inc.",US,Grid & Electrical / Infrastructure Engineering,"Engineering and construction of power transmission lines, pipeline networks, and clean energy sites."
+CEG,Constellation Energy Corporation,US,Nuclear / Nuclear Energy,Largest US nuclear fleet operator supplying carbon-free baseload power to hyperscale data centers.
+SMR,NuScale Power Corporation,US,Nuclear / SMR,Small modular reactor (SMR) design company pioneering factory-fabricated nuclear units.
+CCJ,Cameco Corporation,US,Nuclear / Uranium Mining,Tier-1 global uranium mining and nuclear fuel services provider benefiting from structural deficits.
+UEC,Uranium Energy Corp.,US,Nuclear / Uranium,Unhedged US in-situ recovery (ISR) uranium extraction projects with pipeline reserves.
+LEU,Centrus Energy Corp.,US,Nuclear / Enrichment,Commercial supplier of low-enriched uranium (LEU) and pioneer of High-Assay LEU (HALEU) in the US.
+BWXT,"BWX Technologies, Inc.",US,Nuclear / Nuclear Components & Defense,Sole manufacturer of naval nuclear reactors and components for government and commercial SMRs.
+OKLO,Oklo Inc.,US,Nuclear / Fast Fission,Advanced fast-fission micro-reactors designed to supply decentralized power to data center hubs.
+NNE,Nano Nuclear Energy Inc.,US,Nuclear / Micro-Reactors,"Portable micro-reactor development company for defense, remote power, and off-grid facilities."
+FLR,Fluor Corporation,US,Nuclear / Engineering,Global engineering and construction prime with majority stake in small modular reactor tech.
+NXE,NexGen Energy Ltd.,US,Nuclear / Uranium Exploration,"Developing Rook I project in Athabasca Basin, one of the world's highest-grade uranium deposits."
+DNN,Denison Mines Corp.,US,Nuclear / Uranium Development,Uranium exploration and development in Canada's Athabasca Basin utilizing low-cost ISR methods.
+UUUU,Energy Fuels Inc.,US,Nuclear / Nuclear & Rare Earths,Leading US uranium producer with capabilities to process monazite sands into rare earth elements.
+VST,Vistra Corp.,US,Utilities & Power / Nuclear & Gas,Independent power producer operating Comanche Peak nuclear plant and vast battery storage assets.
+TLN,Talen Energy Corporation,US,Utilities & Power / Nuclear Baseload,Operator of Susquehanna nuclear power station powering adjacent AWS hyperscale campus.
+DUK,Duke Energy Corporation,US,Utilities & Power / Regulated Power,Regulated electric utility giant operating large nuclear and transmission fleets in the Carolinas.
+SO,The Southern Company,US,Utilities & Power / Nuclear,Regulated utility operating the newly built Vogtle 3 and 4 advanced AP1000 nuclear units.
+NEE,"NextEra Energy, Inc.",US,Clean Energy & Storage / Renewables,"World's largest renewable energy producer with massive wind, solar, storage, and nuclear assets."
+EXC,Exelon Corporation,US,Utilities & Power / Transmission,Pure-play transmission and distribution utility serving millions across six major metro markets.
+FLNC,"Fluence Energy, Inc.",US,Clean Energy & Storage / Energy Storage,Grid-scale battery energy storage systems (BESS) and digital optimization software.
+NRGV,"Energy Vault Holdings, Inc.",US,Clean Energy & Storage / Energy Storage,Long-duration gravity-based and hybrid mechanical-chemical energy storage solutions.
+STEM,"Stem, Inc.",US,Clean Energy & Storage / Software,Athena AI-driven energy optimization software for commercial BESS and virtual power plants.
+GWH,"ESS Tech, Inc.",US,Clean Energy & Storage / Energy Storage,"Non-flammable, long-duration iron flow batteries for industrial microgrids and utility backup."
+CSIQ,Canadian Solar Inc.,US,Clean Energy & Storage / Solar & Energy Storage,Vertically integrated solar PV manufacturer and utility-scale battery project developer.
+EOSE,"Eos Energy Enterprises, Inc.",US,Clean Energy & Storage / Energy Storage,"Safe, recyclable aqueous zinc battery systems for utility and industrial long-duration discharge."
+SOLS,Navitas Semiconductor Corporation,US,Semiconductors / Power,GaN and SiC power semiconductors optimizing data center power supply units and storage inverters.
+ENPH,"Enphase Energy, Inc.",US,Clean Energy & Storage / Solar & Inverters,Microinverter systems and home energy storage systems integrated with distributed power software.
+SEDG,"SolarEdge Technologies, Inc.",US,Clean Energy & Storage / Solar & Storage,"DC-optimized inverter systems, smart energy solutions, and commercial storage platforms."
+FSLR,"First Solar, Inc.",US,Clean Energy & Storage / Solar Technology,Thin-film cadmium telluride photovoltaic modules with domestic US manufacturing tax credits.
+AES,The AES Corporation,US,Clean Energy & Storage / Power & Energy Storage,Global power producer co-owning Fluence Energy and deploying utility-scale storage fleets.
+HASI,Hannon Armstrong Sustainable Infrastructure,US,Clean Energy & Storage / Clean Energy Finance,"Climate positive investment firm funding energy efficiency, storage, and clean utility assets."
+BEP,Brookfield Renewable Partners L.P.,US,Clean Energy & Storage / Hydro,"Global renewable asset owner with hydro baseload, solar, wind, and storage supplying tech giants."
+NXSN.TA,Next Vision Vehicles Ltd.,TASE,Defense & Aerospace / Micro-Gimbals,"Micro-stabilized day/night gimbal cameras for tactical UAS, loitering munitions, and UGVs."
+AVAV,"AeroVironment, Inc.",US,Defense & Aerospace / Drones,Leading manufacturer of loitering munitions (Switchblade) and tactical reconnaissance UAS.
+KTOS,Kratos Defense & Security Solutions,US,Defense & Aerospace / Drones,High-performance jet-powered unmanned aerial systems (XQ-58A Valkyrie) and target drones.
+ONDS,Ondas Holdings Inc.,US,Defense & Aerospace / Autonomous Drones,Automated drone-in-a-box solutions and mission-critical private wireless data networks.
+TXT,Textron Inc.,US,Defense & Aerospace / Aerospace,Diversified defense conglomerate manufacturing Aerosonde tactical UAS and military rotorcraft.
+BA,The Boeing Company,US,Defense & Aerospace / Defense,Large-scale autonomous systems including MQ-25 carrier tanker and MQ-28 Ghost Bat.
+NOC,Northrop Grumman Corporation,US,Defense & Aerospace / Aerospace,"High-altitude long-endurance UAS (MQ-4C Triton, Global Hawk) and deep-backlog defense prime."
+LMT,Lockheed Martin Corporation,US,Defense & Aerospace / Defense Prime,"Global defense giant producing F-35 stealth fighters, Skunk Works autonomous aircraft, and PAC-3 missiles."
+RTX,RTX Corporation,US,Defense & Aerospace,"Air defense systems (Patriot), advanced radar, Pratt & Whitney engines, and electro-optical avionics."
+GD,General Dynamics Corporation,US,Defense & Aerospace / Defense Prime,"Nuclear submarines, combat land vehicles, and Gulfstream commercial aerospace jets."
+HII,"Huntington Ingalls Industries, Inc.",US,Defense & Aerospace / Naval,Sole builder of nuclear-powered aircraft carriers and unmanned undersea vehicle (UUV) systems.
+AXON,"Axon Enterprise, Inc.",US,Defense & Aerospace / Law Enforcement Tech,"TASER energy weapons, body-worn cameras, digital evidence software, and autonomous drone integration."
+LHX,"L3Harris Technologies, Inc.",US,Defense & Aerospace / Electronic Warfare,"Mission-critical communications, C4ISR tactical systems, and solid rocket motors for space/defense."
+LDOS,"Leidos Holdings, Inc.",US,Defense & Aerospace / IT Solutions,"Autonomous naval vessels (Sea Hunter), defense software, and military AI integration."
+BAH,Booz Allen Hamilton Holding Corp.,US,Defense & Aerospace / Intelligence Consulting,"Primary provider of AI engineering, cybersecurity, and data solutions to US intelligence agencies."
+ESLT,Elbit Systems Ltd.,US/TASE,Defense & Aerospace / UAS & Avionics,"Hermes tactical and MALE drones, electro-optics, active protection systems (Iron Fist), and avionics."
+HEI,HEICO Corporation,US,Defense & Aerospace / Defense Components,"FAA-approved replacement parts, electronic components, and sub-assemblies for defense aircraft."
+TDG,TransDigm Group Incorporated,US,Defense & Aerospace / Proprietary Parts,Proprietary engineered aerospace components with sole-source supply contracts and high margins.
+ACHR,Archer Aviation Inc.,US,Defense & Aerospace / eVTOL,Electric vertical takeoff and landing aircraft for urban air mobility and defense logistics missions.
+JOBY,"Joby Aviation, Inc.",US,Defense & Aerospace / eVTOL,All-electric commercial passenger and defense air taxi developer backed by FAA certifications.
+EH,EHang Holdings Limited,US,Defense & Aerospace / Autonomous Aerial,Type-certified autonomous aerial vehicles (AAV) for passenger transportation and aerial logistics.
+RKLB,"Rocket Lab USA, Inc.",US,Space / Defense,"Small/medium payload orbital launches (Electron, Neutron) and space systems hardware."
+ASTS,"AST SpaceMobile, Inc.",US,Space / Telecommunications,Space-based cellular broadband network connecting directly to standard smartphones.
+PL,Planet Labs PBC,US,Space / Earth Observation,High-frequency daily global satellite imaging constellation powering geospatial AI analytics.
+BKSY,BlackSky Technology Inc.,US,Space / Geospatial Intelligence,"Real-time satellite imaging, AI monitoring, and situational awareness data for defense agencies."
+LUNR,"Intuitive Machines, Inc.",US,Space / Lunar Exploration,Lunar lander payload delivery services and space communication infrastructure under NASA contracts.
+RDW,Redwire Corporation,US,Space / Infrastructure,"Space infrastructure, robotic deployment, space-borne solar arrays, and in-orbit manufacturing."
+IRDM,Iridium Communications Inc.,US,Space / Satellite Communications,"Global low-Earth orbit constellation delivering secure, ubiquitous voice and IoT data coverage."
+GSAT,"Globalstar, Inc.",US,Space / Satellite Communications,LEO satellite operator providing emergency satellite messaging services for commercial smartphones.
+VSAT,"Viasat, Inc.",US,Space / Satellite Communications,"High-capacity broadband satellite services for commercial airlines, defense, and maritime fleets."
+QUBT,Quantum Computing Inc.,US,Quantum Computing / Photonics,Integrated nanophotonic quantum computing systems and room-temperature quantum optics hardware.
+XNDU,Xanadu Quantum Technologies,US,Quantum Computing / Photonics,Photonic quantum computing hardware and PennyLane quantum machine learning framework.
+IONQ,"IonQ, Inc.",US,Quantum Computing,Trapped-ion quantum computer systems offering high algorithmic fidelity on commercial clouds.
+RGTI,"Rigetti Computing, Inc.",US,Quantum Computing,Superconducting quantum processors integrated with classical hybrid compute architectures.
+QBTS,D-Wave Quantum Inc.,US,Quantum Computing,Commercial quantum annealing systems solving combinatorial optimization and logistics problems.
+MP,MP Materials Corp.,US,Mining & Materials / Rare Earths,Owner/operator of Mountain Pass rare earth mine supplying NdPr for defense and EV magnets.
+FCX,Freeport-McMoRan Inc.,US,Mining & Materials / Copper,Premier international copper mining company feeding electrification and data center cabling.
+SCCO,Southern Copper Corporation,US,Mining & Materials / Copper,Industry-lowest cash cost copper producer with massive reserves across Mexico and Peru.
+TECK,Teck Resources Limited,US,Mining & Materials / Copper & Zinc,Pure-play critical energy transition metals miner focused on long-life copper projects.
+BHP,BHP Group Limited,US,Mining & Materials / Diversified,"World's largest mining company with heavy exposure to copper, iron ore, and nickel."
+RIO,Rio Tinto Group,US,Mining & Materials / Diversified,Global mining major ramping copper production (Oyu Tolgoi) and critical battery minerals.
+VALE,Vale S.A.,US,Mining & Materials / Iron Ore & Nickel,Global iron ore producer and major supplier of low-carbon nickel for energy storage.
+ALB,Albemarle Corporation,US,Mining & Materials / Lithium,Global leader in lithium brine and hard rock processing for energy storage batteries.
+SQM,Sociedad Quimica y Minera de Chile,US,Mining & Materials / Lithium,Lowest-cost lithium extraction from the Atacama salt flat alongside specialty plant nutrients.
+AWK,"American Water Works Company, Inc.",US,Water / Water Utilities,Largest regulated US water and wastewater utility providing defensive utility growth.
+WTRG,"Essential Utilities, Inc.",US,Water / Water & Gas Utilities,"Regulated water, wastewater, and natural gas infrastructure services across nine states."
+XYL,Xylem Inc.,US,Water / Water Technology,"Advanced water transport, smart treatment equipment, and digital leak detection analytics."
+CWT,California Water Service Group,US,Water / Water Utilities,Regulated water utility holding company serving enterprise and residential districts in the Western US.
+WMS,"Advanced Drainage Systems, Inc.",US,Water / Water Management,High-density polyethylene pipe systems managing commercial stormwater and site drainage.
+ZWS,Zurn Elkay Water Solutions Corporation,US,Water / Water Management,"Engineered water safety, commercial filtration systems, and hygienic drinking water stations."
+FERG,Ferguson Enterprises Inc.,US,Industrials & HVAC / Industrial Distribution,"Leading distributor of plumbing, PVF, HVAC, and waterworks infrastructure across North America."
+AM,Antero Midstream Corporation,US,Energy / Energy Infrastructure,"Midstream gathering, compression, and water handling assets yielding reliable dividend income."
+MPC,Marathon Petroleum Corporation,US,Energy / Refining,Largest US crude petroleum refiner returning substantial capital via aggressive share buybacks.
+PSX,Phillips 66,US,Energy / Midstream & Refining,"Diversified downstream company spanning refining, midstream logistics, and chemical partnerships."
+XOM,Exxon Mobil Corporation,US,Energy / Integrated Oil,"Global supermajor with tier-1 Guyana upstream assets, refining integration, and carbon capture."
+CVX,Chevron Corporation,US,Energy / Integrated Oil,Integrated energy major with low-breakeven Permian Basin assets and consistent dividend growth.
+KMI,"Kinder Morgan, Inc.",US,Energy / Midstream,Largest US natural gas transmission pipeline network essential for feeding new gas power plants.
+EPD,Enterprise Products Partners L.P.,US,Energy / Midstream,"Master limited partnership controlling premier NGL, crude oil, and petrochemical infrastructure."
+WMB,"The Williams Companies, Inc.",US,Energy / Midstream,Transco pipeline system moving one-third of US natural gas to power generation centers.
+ET,Energy Transfer LP,US,Energy / Midstream,Vast pipeline logistics network with massive fractionation and export terminals on the Gulf Coast.
+OKE,"ONEOK, Inc.",US,Energy / Midstream,Integrated midstream infrastructure operator connecting major shale basins to export facilities.
+RIOT,"Riot Platforms, Inc.",US,Crypto & HPC Compute / Data Centers,"Industrial-scale Bitcoin mining operations, Texas power credit arbitrage, and HPC colocation."
+MARA,"MARA Holdings, Inc.",US,Crypto & HPC Compute / Data Centers,Largest digital asset compute operator scaling multi-gigawatt power and immersion-cooled hash capacity.
+CLSK,"CleanSpark, Inc.",US,Crypto & HPC Compute / Data Centers,Low-cost energy infrastructure operator deploying clean-power facilities for high-efficiency compute.
+CIFR,Cipher Mining Inc.,US,Crypto & HPC Compute / Data Centers,"Industrial-scale computing facilities with long-term, low-cost power contracts across Texas."
+IREN,Iris Energy Limited,US,Crypto & HPC Compute / HPC AI Cloud,"Next-gen data center operator powered by 100% renewables, expanding into high-density NVIDIA GPU cloud."
+CORZ,"Core Scientific, Inc.",US,Crypto & HPC Compute / HPC AI Hosting,Massive power interconnect portfolio contracted for enterprise AI hosting with major hyperscalers.
+WULF,TeraWulf Inc.,US,Crypto & HPC Compute / Zero-Carbon Compute,Zero-carbon computing facilities powered by nuclear and hydro energy transitioning to AI workloads.
+HUT,Hut 8 Corp.,US,Crypto & HPC Compute / Infrastructure,Diversified energy infrastructure and computing platform scaling commercial data center operations.
+KEEL,Keel Infrastructure Corp. (formerly Bitfarms),US,Crypto & HPC Compute / Compute,Vertically integrated computing data centers operating hydro-powered operations in the Americas.
+JEDI,Defiance Drone and Modern Warfare ETF,US,ETFs / Modern Warfare,"Pure-play thematic ETF targeting drones, autonomous defense systems, and C-UAS."
+DRNZ,REX Drone ETF,US,ETFs / Drones,"Broad drone technology coverage spanning military, commercial logistics, and agriculture."
+GRID,First Trust NASDAQ Clean Edge Smart Grid ETF,US,ETFs / Smart Grid,"Pure-play grid modernization ETF holding leaders in electrical transformers, meters, and grid software."
+PAVE,Global X U.S. Infrastructure Development ETF,US,ETFs / Infrastructure,"Exposure to US civil construction, aggregate producers, industrial machinery, and electrical engineering."
+BATT,Amplify Lithium & Battery Technology ETF,US,ETFs / Battery & Storage,"Global supply chain ETF spanning lithium extraction, cathode materials, and utility battery packs."
+QTUM,Defiance Quantum ETF,US,ETFs / Quantum & ML,"Diversified holdings across quantum computing pioneers, optical processors, and high-performance computing."
+COPX,Global X Copper Miners ETF,US,ETFs / Copper Mining,Targeted exposure to copper mining companies benefiting from electrical infrastructure demand.
+SPMO,Invesco S&P 500 Momentum ETF,US,ETFs / Momentum,"Tracks top-quintile momentum stocks in the S&P 500, rotating into market-leading growth names."
+ARKQ,ARK Autonomous Technology & Robotics ETF,US,ETFs / Autonomous Tech,"Active exposure to robotics, autonomous transit, 3D printing, and energy storage."
+FOTO,Tuttle Capital Subversive Photonics ETF,US,ETFs / Photonics,Thematic ETF tracking pure-play photonics innovators and optical infrastructure suppliers.
+LYTE,Roundhill Photonics ETF,US,ETFs / Photonics,"Exchange-traded fund tracking the optical networking, laser, and photonic module supply chain."
+LUMA,KraneShares Artificial Intelligence & Photonics ETF,US,ETFs / Photonics & AI,Targeted exposure to companies developing optical hardware enabling next-generation AI clusters.
+SMH,VanEck Semiconductor ETF,US,ETFs / Semiconductors,Top-heavy semiconductor ETF tracking the world's most dominant chipmakers and equipment providers.
+SOXX,iShares Semiconductor ETF,US,ETFs / Semiconductors,Broad exposure to US-listed semiconductor manufacturers and software-driven chip architects.
+BOTZ,Global X Robotics & Artificial Intelligence ETF,US,ETFs / Robotics & AI,"Invests in companies pioneering industrial robotics, automation, and AI software applications."
+ROBO,ROBO Global Robotics & Automation Index ETF,US,ETFs / Robotics,"Equally weighted global robotics index spanning sensing, motion, and compute systems."
+NLR,VanEck Uranium+Nuclear Energy ETF,US,ETFs / Nuclear Energy,"Comprehensive exposure to nuclear power utilities, reactor constructors, and uranium producers."
+URA,Global X Uranium ETF,US,ETFs / Uranium Mining,"Targeted exposure to the global uranium mining, exploration, and nuclear fuel cycle industries."
+URNM,Sprott Uranium Miners ETF,US,ETFs / Uranium Miners,Pure-play uranium miners ETF holding physical uranium trusts and global primary producers.
+PHO,Invesco Water Resources ETF,US,ETFs / Water Resources,Leading water ETF tracking companies creating products designed to conserve and purify water.
+FIW,First Trust Water ETF,US,ETFs / Water Resources,"Equal-weighted water ETF focusing on utility distribution, treatment chemicals, and valve systems."
+REMX,VanEck Rare Earth and Strategic Metals ETF,US,ETFs / Strategic Metals,"Global producers and refiners of rare earth elements, lithium, titanium, and cobalt."
+VOO,Vanguard S&P 500 ETF,US,ETFs / Broad Market,Ultra-low-cost core index tracking 500 largest US public corporations.
+QQQ,Invesco QQQ Trust,US,ETFs / Large-Cap Tech,Benchmark Nasdaq-100 index holding dominant tech innovators and consumer leaders.
