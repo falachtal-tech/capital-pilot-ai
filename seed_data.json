@@ -1,429 +1,367 @@
 {
-  "watchlist": [
-    {
-      "ticker": "JEDI",
-      "name": "Defiance Drone and Modern Warfare ETF",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "Modern warfare and drone ETF, risk diversification in the defense sector."
-    },
-    {
-      "ticker": "UAV",
-      "name": "AdvisorShares Drone Technology ETF",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "Pure-play drone technology ETF including civilian applications."
-    },
-    {
-      "ticker": "AVAV",
-      "name": "AeroVironment",
-      "market": "US",
-      "category": "Defense/Drones",
-      "entry_target": null,
-      "thesis": "Leading tactical drone manufacturer (Switchblade), accelerated growth but expensive multiple, high risk."
-    },
-    {
-      "ticker": "KTOS",
-      "name": "Kratos Defense & Security Solutions",
-      "market": "US",
-      "category": "Defense/Drones",
-      "entry_target": null,
-      "thesis": "Development of jet drones (Valkyrie) accompanying fighter jets, a dream stock for the risk budget."
-    },
-    {
-      "ticker": "ONDS",
-      "name": "Ondas Holdings",
-      "market": "US",
-      "category": "Defense/Drones",
-      "entry_target": null,
-      "thesis": "Nervous system and communications for operating autonomous drone swarms remotely."
-    },
-    {
-      "ticker": "TXT",
-      "name": "Textron",
-      "market": "US",
-      "category": "Defense",
-      "entry_target": null,
-      "thesis": "Traditional defense giant with a strong drone arm, fair and stable pricing."
-    },
-    {
-      "ticker": "BA",
-      "name": "Boeing",
-      "market": "US",
-      "category": "Defense",
-      "entry_target": null,
-      "thesis": "Indirect exposure through strategic autonomous refueling and combat drones."
-    },
-    {
-      "ticker": "NOC",
-      "name": "Northrop Grumman",
-      "market": "US",
-      "category": "Defense",
-      "entry_target": null,
-      "thesis": "Giant player in strategic UAVs with a massive backlog and fair pricing."
-    },
-    {
-      "ticker": "FLNC",
-      "name": "Fluence Energy",
-      "market": "US",
-      "category": "Energy Storage",
-      "entry_target": null,
-      "thesis": "Hardware and software solutions for grid-scale energy storage (growth core)."
-    },
-    {
-      "ticker": "NRGV",
-      "name": "Energy Vault",
-      "market": "US",
-      "category": "Energy Storage",
-      "entry_target": null,
-      "thesis": "Innovative energy storage using gravity and lifting blocks (pure risk arm)."
-    },
-    {
-      "ticker": "STEM",
-      "name": "Stem Inc.",
-      "market": "US",
-      "category": "Energy Storage",
-      "entry_target": null,
-      "thesis": "AI software for managing smart energy grids."
-    },
-    {
-      "ticker": "GWH",
-      "name": "ESS Tech",
-      "market": "US",
-      "category": "Energy Storage",
-      "entry_target": null,
-      "thesis": "Safe and non-flammable industrial iron-flow batteries."
-    },
-    {
-      "ticker": "CSIQ",
-      "name": "Canadian Solar",
-      "market": "US",
-      "category": "Solar/Energy",
-      "entry_target": null,
-      "thesis": "Veteran and profitable solar panel manufacturer with a low multiple, defensive for the portfolio core."
-    },
-    {
-      "ticker": "CEG",
-      "name": "Constellation Energy",
-      "market": "US",
-      "category": "Nuclear Energy",
-      "entry_target": null,
-      "thesis": "Nuclear energy backing server farms, fair-high pricing (portfolio core)."
-    },
-    {
-      "ticker": "SMR",
-      "name": "NuScale Power",
-      "market": "US",
-      "category": "Nuclear Energy",
-      "entry_target": null,
-      "thesis": "Development of small modular nuclear reactors (risk arm)."
-    },
-    {
-      "ticker": "CCJ",
-      "name": "Cameco",
-      "market": "US",
-      "category": "Nuclear Energy",
-      "entry_target": null,
-      "thesis": "Global uranium mining, stock is slightly overpriced currently."
-    },
-    {
-      "ticker": "EOSE",
-      "name": "Eos Energy Enterprises",
-      "market": "US",
-      "category": "Energy Storage",
-      "entry_target": null,
-      "thesis": "Industrial zinc batteries as a safe alternative to lithium."
-    },
-    {
-      "ticker": "BE",
-      "name": "Bloom Energy",
-      "market": "US",
-      "category": "Grid Tech",
-      "entry_target": null,
-      "thesis": "Fuel cells and green electricity supply systems."
-    },
-    {
-      "ticker": "AMSC",
-      "name": "American Superconductor",
-      "market": "US",
-      "category": "Grid Tech",
-      "entry_target": null,
-      "thesis": "Optimization and control of industrial power grids."
-    },
-    {
-      "ticker": "WOLF",
-      "name": "Wolfspeed",
-      "market": "US",
-      "category": "Semiconductors/Grid",
-      "entry_target": null,
-      "thesis": "Advanced silicon carbide components for efficient power transmission."
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "market": "US",
-      "category": "Tech / Semiconductors",
-      "entry_target": null,
-      "thesis": "Chip and AI processor giant, too expensive right now but critical to monitor."
-    },
-    {
-      "ticker": "DELL",
-      "name": "Dell Technologies",
-      "market": "US",
-      "category": "Tech / Hardware",
-      "entry_target": null,
-      "thesis": "AI infrastructure and servers, trades at a fair P/E multiple and fits the portfolio core."
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms",
-      "market": "US",
-      "category": "Tech / AI",
-      "entry_target": null,
-      "thesis": "Language model development and massive server farm investments, strong growth and fair-high pricing."
-    },
-    {
-      "ticker": "UEC",
-      "name": "Uranium Energy Corp",
-      "market": "US",
-      "category": "Nuclear Materials",
-      "entry_target": null,
-      "thesis": "American uranium mining company (risk arm)."
-    },
-    {
-      "ticker": "SOLS",
-      "name": "Navitas Semiconductor",
-      "market": "US",
-      "category": "Semiconductors",
-      "entry_target": null,
-      "thesis": "Efficient energy components and next-gen semiconductors."
-    },
-    {
-      "ticker": "LEU",
-      "name": "Centrus Energy",
-      "market": "US",
-      "category": "Nuclear Energy",
-      "entry_target": null,
-      "thesis": "Uranium enrichment company with stable profitability and cheap value multiple."
-    },
-    {
-      "ticker": "AM",
-      "name": "Antero Midstream",
-      "market": "US",
-      "category": "Energy Infrastructure",
-      "entry_target": null,
-      "thesis": "Midstream infrastructure, gas and water pipelines. A strong defensive weight paying dividends at a cheap multiple."
-    },
-    {
-      "ticker": "MP",
-      "name": "MP Materials",
-      "market": "US",
-      "category": "Basic Materials",
-      "entry_target": null,
-      "thesis": "Rare earth metals production in the US, strategic for decoupling from China (risk/growth)."
-    },
-    {
-      "ticker": "TSEM",
-      "name": "Tower Semiconductor",
-      "market": "US",
-      "category": "Semiconductors",
-      "entry_target": null,
-      "thesis": "Analog chip manufacturing, Israeli company showing stable profitability and cheap pricing."
-    },
-    {
-      "ticker": "FN",
-      "name": "Fabrinet",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Manufacturing and assembly of advanced optical components for AI, healthy profitability at a fair price."
-    },
-    {
-      "ticker": "CIEN",
-      "name": "Ciena Corp",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Equipment and solutions for optical networks, comfortable and cheap P/E multiple."
-    },
-    {
-      "ticker": "IPGP",
-      "name": "IPG Photonics",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Global leader in fiber lasers, fair price for the portfolio core."
-    },
-    {
-      "ticker": "COHR",
-      "name": "Coherent Corp",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Materials and lasers for servers, trades at an aggressive and expensive multiple."
-    },
-    {
-      "ticker": "LITE",
-      "name": "Lumentum Holdings",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Manufacturing of optical modules, currently very expensive."
-    },
-    {
-      "ticker": "AAOI",
-      "name": "Applied Optoelectronics",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "High-speed optical fiber components, volatile dream stock (risk arm)."
-    },
-    {
-      "ticker": "QUBT",
-      "name": "Quantum Computing Inc.",
-      "market": "US",
-      "category": "Tech / Quantum",
-      "entry_target": null,
-      "thesis": "Quantum computing based on optics and photonics (pure risk)."
-    },
-    {
-      "ticker": "LASR",
-      "name": "nLIGHT",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Semiconductor lasers for industrial and defense applications."
-    },
-    {
-      "ticker": "VIAV",
-      "name": "Viavi Solutions",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Testing and monitoring for communication and optical networks."
-    },
-    {
-      "ticker": "AXTI",
-      "name": "AXT Inc.",
-      "market": "US",
-      "category": "Photonics",
-      "entry_target": null,
-      "thesis": "Development of specialty raw materials and infrastructure for photonics chips."
-    },
-    {
-      "ticker": "NXSN.TA",
-      "name": "Next Vision",
-      "market": "TASE",
-      "category": "Defense/Drones",
-      "entry_target": null,
-      "thesis": "Micro-stabilized cameras for drones and military vehicles. Cash machine, fair pricing, for the Israeli account (ILS)."
-    },
-    {
-      "ticker": "QTUM",
-      "name": "Defiance Quantum ETF",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "Quantum computing and machine learning ETF (allocation for next month)."
-    },
-    {
-      "ticker": "ETN",
-      "name": "Eaton Corporation",
-      "market": "US",
-      "category": "Grid/Power",
-      "entry_target": null,
-      "thesis": "Giant in power management and UPS backup for data centers. Combines value, dividends, and critical infrastructure."
-    },
-    {
-      "ticker": "NVT",
-      "name": "nVent Electric",
-      "market": "US",
-      "category": "Grid/Power",
-      "entry_target": null,
-      "thesis": "Liquid cooling systems and smart enclosures for AI servers."
-    },
-    {
-      "ticker": "APH",
-      "name": "Amphenol Corp",
-      "market": "US",
-      "category": "Tech Infrastructure",
-      "entry_target": null,
-      "thesis": "Physical connectors and optical fibers, connecting servers for record speeds."
-    },
-    {
-      "ticker": "GRID",
-      "name": "First Trust Smart Grid",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "ETF tracking the power transmission layer and smart grids (includes ETN and NVT)."
-    },
-    {
-      "ticker": "PAVE",
-      "name": "Global X U.S. Infrastructure",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "US physical infrastructure ETF (construction, steel, cooling, grids)."
-    },
-    {
-      "ticker": "BATT",
-      "name": "Amplify Battery Tech",
-      "market": "US",
-      "category": "ETFs",
-      "entry_target": null,
-      "thesis": "Full broad exposure to energy storage, from lithium mining core to batteries and vehicles."
-    },
-    {
-      "ticker": "RIOT",
-      "name": "Riot Platforms",
-      "market": "US",
-      "category": "Crypto/Data Center",
-      "entry_target": null,
-      "thesis": "Bitcoin mining, power credits trading (Texas), and data center space leasing for HPC (risk arm)."
-    },
-    {
-      "ticker": "ASTS",
-      "name": "AST SpaceMobile",
-      "market": "US",
-      "category": "Space / Tech",
-      "entry_target": null,
-      "thesis": "Direct-to-cell satellite communication from space (risk arm)."
-    }
-  ],
   "portfolio_state": {
     "annual_deposit_goal_ils": 0,
     "monthly_target_ils": 0,
     "target_annual_return_pct": 0,
     "accounts": {
       "colmex_pro_usd": {
-        "cash_balance": 2.64,
+        "cash_balance": 14.69,
+        "total_value": 30917.26,
+        "base_balance": 27105.65,
+        "total_unrealized_profit": 3750.70,
+        "margin_available": 14.69,
+        "init_margin_req": 30902.56,
+        "live_leverage": 0.99,
         "holdings": [
           {
-            "ticker": "SCHD",
-            "quantity": 25
+            "ticker": "QQQ",
+            "exchange": "NASDAQ",
+            "quantity": 7,
+            "open_price": 533.1395,
+            "current_price": 747.38,
+            "exposure": 3731.97,
+            "market_value": 5231.66,
+            "fee": -5.09,
+            "net_pl": 1494.59,
+            "net_pl_pct": 40.0483,
+            "position_id": 9077324,
+            "open_date": "2025-03-14 21:19:44"
           },
           {
-            "ticker": "SRVR",
-            "quantity": 22
+            "ticker": "VOO",
+            "exchange": "NYSE",
+            "quantity": 5,
+            "open_price": 515.5345,
+            "current_price": 705.82,
+            "exposure": 2577.67,
+            "market_value": 3529.10,
+            "fee": 0.00,
+            "net_pl": 951.42,
+            "net_pl_pct": 36.9103,
+            "position_id": 8028580,
+            "open_date": "2024-06-28 16:30:04"
+          },
+          {
+            "ticker": "VGT",
+            "exchange": "NYSE",
+            "quantity": 24,
+            "open_price": 71.40,
+            "current_price": 128.03,
+            "exposure": 1713.60,
+            "market_value": 3072.72,
+            "fee": 0.00,
+            "net_pl": 1359.12,
+            "net_pl_pct": 79.3137,
+            "position_id": 8169783,
+            "open_date": "2024-08-01 12:00:02"
+          },
+          {
+            "ticker": "GOOGL",
+            "exchange": "NASDAQ",
+            "quantity": 9,
+            "open_price": 246.5204,
+            "current_price": 340.55,
+            "exposure": 2218.68,
+            "market_value": 3064.95,
+            "fee": -2.50,
+            "net_pl": 843.76,
+            "net_pl_pct": 38.03,
+            "position_id": 9368225,
+            "open_date": "2025-05-21 17:21:19"
+          },
+          {
+            "ticker": "AMZN",
+            "exchange": "NASDAQ",
+            "quantity": 10,
+            "open_price": 268.42,
+            "current_price": 249.62,
+            "exposure": 2684.20,
+            "market_value": 2496.20,
+            "fee": -2.50,
+            "net_pl": -190.50,
+            "net_pl_pct": -7.0971,
+            "position_id": 11438217,
+            "open_date": "2026-08-12 21:36:43"
+          },
+          {
+            "ticker": "SCHW",
+            "exchange": "NYSE",
+            "quantity": 20,
+            "open_price": 108.95,
+            "current_price": 98.40,
+            "exposure": 2179.00,
+            "market_value": 1968.00,
+            "fee": -2.50,
+            "net_pl": -213.50,
+            "net_pl_pct": -9.7981,
+            "position_id": 11438215,
+            "open_date": "2026-08-12 21:33:27"
+          },
+          {
+            "ticker": "CEG",
+            "exchange": "NASDAQ",
+            "quantity": 7,
+            "open_price": 282.2223,
+            "current_price": 260.07,
+            "exposure": 1975.55,
+            "market_value": 1820.49,
+            "fee": -5.00,
+            "net_pl": -160.06,
+            "net_pl_pct": -8.1023,
+            "position_id": 11545210,
+            "open_date": "2026-09-08 18:56:48"
+          },
+          {
+            "ticker": "FCX",
+            "exchange": "NYSE",
+            "quantity": 18,
+            "open_price": 73.8844,
+            "current_price": 69.74,
+            "exposure": 1329.91,
+            "market_value": 1255.35,
+            "fee": -5.00,
+            "net_pl": -79.56,
+            "net_pl_pct": -5.9825,
+            "position_id": 11545209,
+            "open_date": "2026-09-08 18:56:09"
+          },
+          {
+            "ticker": "NVDA",
+            "exchange": "NASDAQ",
+            "quantity": 5,
+            "open_price": 118.448,
+            "current_price": 233.57,
+            "exposure": 592.24,
+            "market_value": 1167.83,
+            "fee": 0.00,
+            "net_pl": 575.59,
+            "net_pl_pct": 97.1892,
+            "position_id": 8294641,
+            "open_date": "2024-09-03 13:17:29"
+          },
+          {
+            "ticker": "DGRW",
+            "exchange": "NASDAQ",
+            "quantity": 10,
+            "open_price": 98.625,
+            "current_price": 97.42,
+            "exposure": 986.25,
+            "market_value": 974.20,
+            "fee": -2.50,
+            "net_pl": -14.55,
+            "net_pl_pct": -1.4753,
+            "position_id": 11565385,
+            "open_date": "2026-09-14 19:44:19"
+          },
+          {
+            "ticker": "CCJ",
+            "exchange": "NYSE",
+            "quantity": 10,
+            "open_price": 115.83,
+            "current_price": 86.69,
+            "exposure": 1158.30,
+            "market_value": 866.90,
+            "fee": -2.50,
+            "net_pl": -293.90,
+            "net_pl_pct": -25.3734,
+            "position_id": 10675928,
+            "open_date": "2026-03-03 16:39:29"
+          },
+          {
+            "ticker": "FIW",
+            "exchange": "NYSE",
+            "quantity": 8,
+            "open_price": 108.045,
+            "current_price": 103.55,
+            "exposure": 864.36,
+            "market_value": 828.40,
+            "fee": -2.50,
+            "net_pl": -38.46,
+            "net_pl_pct": -4.4495,
+            "position_id": 11545213,
+            "open_date": "2026-09-08 18:57:51"
           },
           {
             "ticker": "VLO",
-            "quantity": 2
+            "exchange": "NYSE",
+            "quantity": 2,
+            "open_price": 377.74,
+            "current_price": 404.10,
+            "exposure": 755.48,
+            "market_value": 808.20,
+            "fee": -2.50,
+            "net_pl": 50.22,
+            "net_pl_pct": 6.6474,
+            "position_id": 11604019,
+            "open_date": "2026-09-24 16:30:01"
+          },
+          {
+            "ticker": "IAU",
+            "exchange": "NYSE",
+            "quantity": 10,
+            "open_price": 82.5656,
+            "current_price": 78.57,
+            "exposure": 825.65,
+            "market_value": 785.70,
+            "fee": -2.50,
+            "net_pl": -42.45,
+            "net_pl_pct": -5.1421,
+            "position_id": 11545222,
+            "open_date": "2026-09-08 19:03:45"
+          },
+          {
+            "ticker": "IONQ",
+            "exchange": "NYSE",
+            "quantity": 16,
+            "open_price": 43.76,
+            "current_price": 44.48,
+            "exposure": 700.16,
+            "market_value": 711.71,
+            "fee": -2.50,
+            "net_pl": 9.05,
+            "net_pl_pct": 1.2926,
+            "position_id": 11545208,
+            "open_date": "2026-09-08 18:55:23"
+          },
+          {
+            "ticker": "SCHD",
+            "exchange": "NYSE",
+            "quantity": 20,
+            "open_price": 33.37,
+            "current_price": 32.76,
+            "exposure": 667.40,
+            "market_value": 655.20,
+            "fee": -2.50,
+            "net_pl": -14.70,
+            "net_pl_pct": -2.2026,
+            "position_id": 11604011,
+            "open_date": "2026-09-24 16:30:00"
           },
           {
             "ticker": "QCOM",
-            "quantity": 1
+            "exchange": "NASDAQ",
+            "quantity": 3,
+            "open_price": 196.70,
+            "current_price": 184.34,
+            "exposure": 590.10,
+            "market_value": 553.02,
+            "fee": -2.50,
+            "net_pl": -39.58,
+            "net_pl_pct": -6.7073,
+            "position_id": 11604021,
+            "open_date": "2026-09-24 16:30:01"
           },
           {
-            "ticker": "RCAT",
-            "quantity": 13
+            "ticker": "SRVR",
+            "exchange": "NYSE",
+            "quantity": 15,
+            "open_price": 29.34,
+            "current_price": 28.17,
+            "exposure": 440.10,
+            "market_value": 422.55,
+            "fee": -2.50,
+            "net_pl": -20.05,
+            "net_pl_pct": -4.5558,
+            "position_id": 11604013,
+            "open_date": "2026-09-24 16:30:00"
+          },
+          {
+            "ticker": "UEC",
+            "exchange": "NYSE",
+            "quantity": 30,
+            "open_price": 14.35,
+            "current_price": 9.44,
+            "exposure": 430.50,
+            "market_value": 283.20,
+            "fee": -5.00,
+            "net_pl": -152.30,
+            "net_pl_pct": -35.3775,
+            "position_id": 10015880,
+            "open_date": "2025-10-06 19:21:01"
           },
           {
             "ticker": "POET",
-            "quantity": 12
+            "exchange": "NASDAQ",
+            "quantity": 12,
+            "open_price": 7.38,
+            "current_price": 7.71,
+            "exposure": 88.56,
+            "market_value": 92.53,
+            "fee": -2.50,
+            "net_pl": 1.47,
+            "net_pl_pct": 1.6621,
+            "position_id": 11624054,
+            "open_date": "2026-09-28 17:43:57"
+          },
+          {
+            "ticker": "RCAT",
+            "exchange": "NASDAQ",
+            "quantity": 13,
+            "open_price": 6.57,
+            "current_price": 6.42,
+            "exposure": 85.41,
+            "market_value": 83.46,
+            "fee": -2.50,
+            "net_pl": -4.45,
+            "net_pl_pct": -5.2102,
+            "position_id": 11624051,
+            "open_date": "2026-09-28 17:43:25"
+          },
+          {
+            "ticker": "QUBT",
+            "exchange": "NASDAQ",
+            "quantity": 8,
+            "open_price": 15.44,
+            "current_price": 8.50,
+            "exposure": 123.52,
+            "market_value": 67.98,
+            "fee": -2.50,
+            "net_pl": -58.03,
+            "net_pl_pct": -46.9845,
+            "position_id": 9898064,
+            "open_date": "2025-09-11 17:01:57"
+          },
+          {
+            "ticker": "SOFI",
+            "exchange": "NASDAQ",
+            "quantity": 4,
+            "open_price": 29.9575,
+            "current_price": 15.98,
+            "exposure": 119.83,
+            "market_value": 63.92,
+            "fee": -2.50,
+            "net_pl": -58.41,
+            "net_pl_pct": -48.7441,
+            "position_id": 10136033,
+            "open_date": "2025-10-27 21:21:12"
+          },
+          {
+            "ticker": "RGTI",
+            "exchange": "NASDAQ",
+            "quantity": 4,
+            "open_price": 40.14,
+            "current_price": 15.80,
+            "exposure": 160.56,
+            "market_value": 63.20,
+            "fee": -2.50,
+            "net_pl": -99.86,
+            "net_pl_pct": -62.1948,
+            "position_id": 10015932,
+            "open_date": "2025-10-06 19:26:38"
+          },
+          {
+            "ticker": "XPEV",
+            "exchange": "NYSE",
+            "quantity": 4,
+            "open_price": 22.98,
+            "current_price": 9.33,
+            "exposure": 91.92,
+            "market_value": 37.32,
+            "fee": -2.50,
+            "net_pl": -57.10,
+            "net_pl_pct": -62.1192,
+            "position_id": 10133055,
+            "open_date": "2025-10-27 16:46:32"
           }
         ]
       },
